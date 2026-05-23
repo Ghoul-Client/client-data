@@ -1,0 +1,2522 @@
+{
+    "Bane of Arthropods": {
+        "levels": {
+            "1": {
+                "formatted_name": "Bane of Arthropods I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Bane of Arthropods II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Bane of Arthropods III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Bane of Arthropods IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Bane of Arthropods V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Bane of Arthropods VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Bane of Arthropods VII",
+                "combinable": true
+            }
+        }
+    },
+    "Champion": {
+        "levels": {
+            "1": {
+                "formatted_name": "Champion I",
+                "combinable": false
+            },
+            "2": {
+                "formatted_name": "Champion II",
+                "combinable": false
+            },
+            "3": {
+                "formatted_name": "Champion III",
+                "combinable": false
+            },
+            "4": {
+                "formatted_name": "Champion IV",
+                "combinable": false
+            },
+            "5": {
+                "formatted_name": "Champion V",
+                "combinable": false
+            },
+            "6": {
+                "formatted_name": "Champion VI",
+                "combinable": false
+            },
+            "7": {
+                "formatted_name": "Champion VII",
+                "combinable": false
+            },
+            "8": {
+                "formatted_name": "Champion VIII",
+                "combinable": false
+            },
+            "9": {
+                "formatted_name": "Champion IX",
+                "combinable": false
+            },
+            "10": {
+                "formatted_name": "Champion X",
+                "combinable": false
+            }
+        }
+    },
+    "Cleave": {
+        "levels": {
+            "1": {
+                "formatted_name": "Cleave I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Cleave II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Cleave III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Cleave IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Cleave V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Cleave VI",
+                "combinable": true
+            }
+        }
+    },
+    "Critical": {
+        "levels": {
+            "1": {
+                "formatted_name": "Critical I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Critical II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Critical III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Critical IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Critical V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Critical VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Critical VII",
+                "combinable": true
+            }
+        }
+    },
+    "Cubism": {
+        "levels": {
+            "1": {
+                "formatted_name": "Cubism I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Cubism II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Cubism III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Cubism IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Cubism V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Cubism VI",
+                "combinable": true
+            }
+        }
+    },
+    "Divine Gift": {
+        "levels": {
+            "1": {
+                "formatted_name": "Divine Gift I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Divine Gift II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Divine Gift III",
+                "combinable": true
+            }
+        }
+    },
+    "Drain": {
+        "levels": {
+            "1": {
+                "formatted_name": "Drain I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Drain II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Drain III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Drain IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Drain V",
+                "combinable": true
+            }
+        }
+    },
+    "Ender Slayer": {
+        "levels": {
+            "1": {
+                "formatted_name": "Ender Slayer I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Ender Slayer II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Ender Slayer III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Ender Slayer IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Ender Slayer V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Ender Slayer VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Ender Slayer VII",
+                "combinable": true
+            }
+        }
+    },
+    "Execute": {
+        "levels": {
+            "1": {
+                "formatted_name": "Execute I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Execute II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Execute III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Execute IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Execute V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Execute VI",
+                "combinable": true
+            }
+        }
+    },
+    "Experience": {
+        "levels": {
+            "1": {
+                "formatted_name": "Experience I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Experience II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Experience III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Experience IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Experience V",
+                "combinable": true
+            }
+        }
+    },
+    "Fire Aspect": {
+        "levels": {
+            "1": {
+                "formatted_name": "Fire Aspect I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Fire Aspect II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Fire Aspect III",
+                "combinable": true
+            }
+        }
+    },
+    "First Strike": {
+        "levels": {
+            "1": {
+                "formatted_name": "First Strike I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "First Strike II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "First Strike III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "First Strike IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "First Strike V",
+                "combinable": true
+            }
+        }
+    },
+    "Giant Killer": {
+        "levels": {
+            "1": {
+                "formatted_name": "Giant Killer I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Giant Killer II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Giant Killer III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Giant Killer IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Giant Killer V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Giant Killer VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Giant Killer VII",
+                "combinable": true
+            }
+        }
+    },
+    "Gravity": {
+        "levels": {
+            "1": {
+                "formatted_name": "Gravity I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Gravity II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Gravity III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Gravity IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Gravity V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Gravity VI",
+                "combinable": true
+            }
+        }
+    },
+    "Impaling": {
+        "levels": {
+            "1": {
+                "formatted_name": "Impaling I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Impaling II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Impaling III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Impaling IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Impaling V",
+                "combinable": true
+            }
+        }
+    },
+    "Knockback": {
+        "levels": {
+            "1": {
+                "formatted_name": "Knockback I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Knockback II",
+                "combinable": true
+            }
+        }
+    },
+    "Lethality": {
+        "levels": {
+            "1": {
+                "formatted_name": "Lethality I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Lethality II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Lethality III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Lethality IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Lethality V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Lethality VI",
+                "combinable": true
+            }
+        }
+    },
+    "Life Steal": {
+        "levels": {
+            "1": {
+                "formatted_name": "Life Steal I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Life Steal II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Life Steal III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Life Steal IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Life Steal V",
+                "combinable": true
+            }
+        }
+    },
+    "Looting": {
+        "levels": {
+            "1": {
+                "formatted_name": "Looting I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Looting II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Looting III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Looting IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Looting V",
+                "combinable": true
+            }
+        }
+    },
+    "Luck": {
+        "levels": {
+            "1": {
+                "formatted_name": "Luck I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Luck II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Luck III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Luck IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Luck V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Luck VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Luck VII",
+                "combinable": true
+            }
+        }
+    },
+    "Mana Steal": {
+        "levels": {
+            "1": {
+                "formatted_name": "Mana Steal I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Mana Steal II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Mana Steal III",
+                "combinable": true
+            }
+        }
+    },
+    "Prosecute": {
+        "levels": {
+            "1": {
+                "formatted_name": "Prosecute I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Prosecute II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Prosecute III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Prosecute IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Prosecute V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Prosecute VI",
+                "combinable": true
+            }
+        }
+    },
+    "Scavenger": {
+        "levels": {
+            "1": {
+                "formatted_name": "Scavenger I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Scavenger II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Scavenger III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Scavenger IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Scavenger V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Scavenger VI",
+                "combinable": true
+            }
+        }
+    },
+    "Sharpness": {
+        "levels": {
+            "1": {
+                "formatted_name": "Sharpness I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Sharpness II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Sharpness III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Sharpness IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Sharpness V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Sharpness VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Sharpness VII",
+                "combinable": true
+            }
+        }
+    },
+    "Smite": {
+        "levels": {
+            "1": {
+                "formatted_name": "Smite I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Smite II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Smite III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Smite IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Smite V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Smite VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Smite VII",
+                "combinable": true
+            }
+        }
+    },
+    "Smoldering": {
+        "levels": {
+            "1": {
+                "formatted_name": "Smoldering I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Smoldering II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Smoldering III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Smoldering IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Smoldering V",
+                "combinable": true
+            }
+        }
+    },
+    "Tabasco": {
+        "levels": {
+            "2": {
+                "formatted_name": "Tabasco II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Tabasco III",
+                "combinable": true
+            }
+        }
+    },
+    "Thunderbolt": {
+        "levels": {
+            "1": {
+                "formatted_name": "Thunderbolt I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Thunderbolt II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Thunderbolt III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Thunderbolt IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Thunderbolt V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Thunderbolt VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Thunderbolt VII",
+                "combinable": true
+            }
+        }
+    },
+    "Thunderlord": {
+        "levels": {
+            "1": {
+                "formatted_name": "Thunderlord I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Thunderlord II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Thunderlord III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Thunderlord IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Thunderlord V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Thunderlord VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Thunderlord VII",
+                "combinable": true
+            }
+        }
+    },
+    "Titan Killer": {
+        "levels": {
+            "1": {
+                "formatted_name": "Titan Killer I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Titan Killer II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Titan Killer III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Titan Killer IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Titan Killer V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Titan Killer VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Titan Killer VII",
+                "combinable": true
+            }
+        }
+    },
+    "Triple-Strike": {
+        "levels": {
+            "1": {
+                "formatted_name": "Triple-Strike I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Triple-Strike II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Triple-Strike III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Triple-Strike IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Triple-Strike V",
+                "combinable": true
+            }
+        }
+    },
+    "Vampirism": {
+        "levels": {
+            "1": {
+                "formatted_name": "Vampirism I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Vampirism II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Vampirism III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Vampirism IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Vampirism V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Vampirism VI",
+                "combinable": true
+            }
+        }
+    },
+    "Venomous": {
+        "levels": {
+            "1": {
+                "formatted_name": "Venomous I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Venomous II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Venomous III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Venomous IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Venomous V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Venomous VI",
+                "combinable": true
+            }
+        }
+    },
+    "Vicious": {
+        "levels": {
+            "3": {
+                "formatted_name": "Vicious III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Vicious IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Vicious V",
+                "combinable": true
+            }
+        }
+    },
+    "Chance": {
+        "levels": {
+            "1": {
+                "formatted_name": "Chance I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Chance II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Chance III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Chance IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Chance V",
+                "combinable": true
+            }
+        }
+    },
+    "Dragon Tracer": {
+        "levels": {
+            "1": {
+                "formatted_name": "Dragon Tracer I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Dragon Tracer II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Dragon Tracer III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Dragon Tracer IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Dragon Tracer V",
+                "combinable": true
+            }
+        }
+    },
+    "Flame": {
+        "levels": {
+            "1": {
+                "formatted_name": "Flame I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Flame II",
+                "combinable": true
+            }
+        }
+    },
+    "Infinite Quiver": {
+        "levels": {
+            "1": {
+                "formatted_name": "Infinite Quiver I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Infinite Quiver II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Infinite Quiver III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Infinite Quiver IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Infinite Quiver V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Infinite Quiver VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Infinite Quiver VII",
+                "combinable": true
+            },
+            "8": {
+                "formatted_name": "Infinite Quiver VIII",
+                "combinable": true
+            },
+            "9": {
+                "formatted_name": "Infinite Quiver IX",
+                "combinable": true
+            },
+            "10": {
+                "formatted_name": "Infinite Quiver X",
+                "combinable": true
+            }
+        }
+    },
+    "Piercing": {
+        "levels": {
+            "1": {
+                "formatted_name": "Piercing I",
+                "combinable": true
+            }
+        }
+    },
+    "Overload": {
+        "levels": {
+            "1": {
+                "formatted_name": "Overload I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Overload II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Overload III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Overload IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Overload V",
+                "combinable": true
+            }
+        }
+    },
+    "Power": {
+        "levels": {
+            "1": {
+                "formatted_name": "Power I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Power II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Power III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Power IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Power V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Power VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Power VII",
+                "combinable": true
+            }
+        }
+    },
+    "Punch": {
+        "levels": {
+            "1": {
+                "formatted_name": "Punch I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Punch II",
+                "combinable": true
+            }
+        }
+    },
+    "Snipe": {
+        "levels": {
+            "1": {
+                "formatted_name": "Snipe I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Snipe II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Snipe III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Snipe IV",
+                "combinable": true
+            }
+        }
+    },
+    "Toxophilite": {
+        "levels": {
+            "1": {
+                "formatted_name": "Toxophilite I",
+                "combinable": false
+            },
+            "2": {
+                "formatted_name": "Toxophilite II",
+                "combinable": false
+            },
+            "3": {
+                "formatted_name": "Toxophilite III",
+                "combinable": false
+            },
+            "4": {
+                "formatted_name": "Toxophilite IV",
+                "combinable": false
+            },
+            "5": {
+                "formatted_name": "Toxophilite V",
+                "combinable": false
+            },
+            "6": {
+                "formatted_name": "Toxophilite VI",
+                "combinable": false
+            },
+            "7": {
+                "formatted_name": "Toxophilite VII",
+                "combinable": false
+            },
+            "8": {
+                "formatted_name": "Toxophilite VIII",
+                "combinable": false
+            },
+            "9": {
+                "formatted_name": "Toxophilite IX",
+                "combinable": false
+            },
+            "10": {
+                "formatted_name": "Toxophilite X",
+                "combinable": false
+            }
+        }
+    },
+    "Aqua Affinity": {
+        "levels": {
+            "1": {
+                "formatted_name": "Aqua Affinity I",
+                "combinable": true
+            }
+        }
+    },
+    "Big Brain": {
+        "levels": {
+            "3": {
+                "formatted_name": "Big Brain III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Big Brain IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Big Brain V",
+                "combinable": true
+            }
+        }
+    },
+    "Blast Protection": {
+        "levels": {
+            "1": {
+                "formatted_name": "Blast Protection I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Blast Protection II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Blast Protection III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Blast Protection IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Blast Protection V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Blast Protection VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Blast Protection VII",
+                "combinable": true
+            }
+        }
+    },
+    "Counter-Strike": {
+        "levels": {
+            "3": {
+                "formatted_name": "Counter-Strike III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Counter-Strike IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Counter-Strike V",
+                "combinable": true
+            }
+        }
+    },
+    "Depth Strider": {
+        "levels": {
+            "1": {
+                "formatted_name": "Depth Strider I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Depth Strider II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Depth Strider III",
+                "combinable": true
+            }
+        }
+    },
+    "Feather Falling": {
+        "levels": {
+            "1": {
+                "formatted_name": "Feather Falling I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Feather Falling II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Feather Falling III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Feather Falling IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Feather Falling V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Feather Falling VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Feather Falling VII",
+                "combinable": true
+            },
+            "8": {
+                "formatted_name": "Feather Falling VIII",
+                "combinable": true
+            },
+            "9": {
+                "formatted_name": "Feather Falling IX",
+                "combinable": true
+            },
+            "10": {
+                "formatted_name": "Feather Falling X",
+                "combinable": true
+            }
+        }
+    },
+    "Fire Protection": {
+        "levels": {
+            "1": {
+                "formatted_name": "Fire Protection I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Fire Protection II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Fire Protection III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Fire Protection IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Fire Protection V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Fire Protection VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Fire Protection VII",
+                "combinable": true
+            }
+        }
+    },
+    "Great Spook": {
+        "levels": {
+            "1": {
+                "formatted_name": "Great Spook I",
+                "combinable": true
+            }
+        }
+    },
+    "Growth": {
+        "levels": {
+            "1": {
+                "formatted_name": "Growth I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Growth II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Growth III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Growth IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Growth V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Growth VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Growth VII",
+                "combinable": true
+            }
+        }
+    },
+    "Protection": {
+        "levels": {
+            "1": {
+                "formatted_name": "Protection I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Protection II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Protection III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Protection IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Protection V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Protection VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Protection VII",
+                "combinable": true
+            }
+        }
+    },
+    "Reflection": {
+        "levels": {
+            "1": {
+                "formatted_name": "Reflection I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Reflection II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Reflection III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Reflection IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Reflection V",
+                "combinable": true
+            }
+        }
+    },
+    "Rejuvenate": {
+        "levels": {
+            "1": {
+                "formatted_name": "Rejuvenate I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Rejuvenate II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Rejuvenate III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Rejuvenate IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Rejuvenate V",
+                "combinable": true
+            }
+        }
+    },
+    "Respiration": {
+        "levels": {
+            "1": {
+                "formatted_name": "Respiration I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Respiration II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Respiration III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Respiration IV",
+                "combinable": true
+            }
+        }
+    },
+    "Respite": {
+        "levels": {
+            "1": {
+                "formatted_name": "Respite I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Respite II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Respite III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Respite IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Respite V",
+                "combinable": true
+            }
+        }
+    },
+    "Small Brain": {
+        "levels": {
+            "3": {
+                "formatted_name": "Small Brain III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Small Brain IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Small Brain V",
+                "combinable": true
+            }
+        }
+    },
+    "Smarty Pants": {
+        "levels": {
+            "1": {
+                "formatted_name": "Smarty Pants I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Smarty Pants II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Smarty Pants III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Smarty Pants IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Smarty Pants V",
+                "combinable": true
+            }
+        }
+    },
+    "Stealth": {
+        "levels": {
+            "1": {
+                "formatted_name": "Stealth I",
+                "combinable": true
+            }
+        }
+    },
+    "Sugar Rush": {
+        "levels": {
+            "1": {
+                "formatted_name": "Sugar Rush I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Sugar Rush II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Sugar Rush III",
+                "combinable": true
+            }
+        }
+    },
+    "Thorns": {
+        "levels": {
+            "1": {
+                "formatted_name": "Thorns I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Thorns II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Thorns III",
+                "combinable": true
+            }
+        }
+    },
+    "Transylvanian": {
+        "levels": {
+            "4": {
+                "formatted_name": "Transylvanian IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Transylvanian V",
+                "combinable": true
+            }
+        }
+    },
+    "True Protection": {
+        "levels": {
+            "1": {
+                "formatted_name": "True Protection I",
+                "combinable": true
+            }
+        }
+    },
+    "Cayenne": {
+        "levels": {
+            "4": {
+                "formatted_name": "Cayenne IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Cayenne V",
+                "combinable": true
+            }
+        }
+    },
+    "Green Thumb": {
+        "levels": {
+            "1": {
+                "formatted_name": "Green Thumb I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Green Thumb II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Green Thumb III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Green Thumb IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Green Thumb V",
+                "combinable": true
+            }
+        }
+    },
+    "Prosperity": {
+        "levels": {
+            "1": {
+                "formatted_name": "Prosperity I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Prosperity II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Prosperity III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Prosperity IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Prosperity V",
+                "combinable": true
+            }
+        }
+    },
+    "Quantum": {
+        "levels": {
+            "3": {
+                "formatted_name": "Quantum III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Quantum IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Quantum V",
+                "combinable": true
+            }
+        }
+    },
+    "Absorb": {
+        "levels": {
+            "1": {
+                "formatted_name": "Absorb I",
+                "combinable": false
+            },
+            "2": {
+                "formatted_name": "Absorb II",
+                "combinable": false
+            },
+            "3": {
+                "formatted_name": "Absorb III",
+                "combinable": false
+            },
+            "4": {
+                "formatted_name": "Absorb IV",
+                "combinable": false
+            },
+            "5": {
+                "formatted_name": "Absorb V",
+                "combinable": false
+            },
+            "6": {
+                "formatted_name": "Absorb VI",
+                "combinable": false
+            },
+            "7": {
+                "formatted_name": "Absorb VII",
+                "combinable": false
+            },
+            "8": {
+                "formatted_name": "Absorb VIII",
+                "combinable": false
+            },
+            "9": {
+                "formatted_name": "Absorb IX",
+                "combinable": false
+            },
+            "10": {
+                "formatted_name": "Absorb X",
+                "combinable": false
+            }
+        }
+    },
+    "Cultivating": {
+        "levels": {
+            "1": {
+                "formatted_name": "Cultivating I",
+                "combinable": false
+            },
+            "2": {
+                "formatted_name": "Cultivating II",
+                "combinable": false
+            },
+            "3": {
+                "formatted_name": "Cultivating III",
+                "combinable": false
+            },
+            "4": {
+                "formatted_name": "Cultivating IV",
+                "combinable": false
+            },
+            "5": {
+                "formatted_name": "Cultivating V",
+                "combinable": false
+            },
+            "6": {
+                "formatted_name": "Cultivating VI",
+                "combinable": false
+            },
+            "7": {
+                "formatted_name": "Cultivating VII",
+                "combinable": false
+            },
+            "8": {
+                "formatted_name": "Cultivating VIII",
+                "combinable": false
+            },
+            "9": {
+                "formatted_name": "Cultivating IX",
+                "combinable": false
+            },
+            "10": {
+                "formatted_name": "Cultivating X",
+                "combinable": false
+            }
+        }
+    },
+    "Compact": {
+        "levels": {
+            "1": {
+                "formatted_name": "Compact I",
+                "combinable": false
+            },
+            "2": {
+                "formatted_name": "Compact II",
+                "combinable": false
+            },
+            "3": {
+                "formatted_name": "Compact III",
+                "combinable": false
+            },
+            "4": {
+                "formatted_name": "Compact IV",
+                "combinable": false
+            },
+            "5": {
+                "formatted_name": "Compact V",
+                "combinable": false
+            },
+            "6": {
+                "formatted_name": "Compact VI",
+                "combinable": false
+            },
+            "7": {
+                "formatted_name": "Compact VII",
+                "combinable": false
+            },
+            "8": {
+                "formatted_name": "Compact VIII",
+                "combinable": false
+            },
+            "9": {
+                "formatted_name": "Compact IX",
+                "combinable": false
+            },
+            "10": {
+                "formatted_name": "Compact X",
+                "combinable": false
+            }
+        }
+    },
+    "Crop Fever": {
+        "levels": {
+            "1": {
+                "formatted_name": "Crop Fever I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Crop Fever II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Crop Fever III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Crop Fever IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Crop Fever V",
+                "combinable": true
+            }
+        }
+    },
+    "Dedication": {
+        "levels": {
+            "1": {
+                "formatted_name": "Dedication I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Dedication II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Dedication III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Dedication IV",
+                "combinable": true
+            }
+        }
+    },
+    "Delicate": {
+        "levels": {
+            "5": {
+                "formatted_name": "Delicate V",
+                "combinable": true
+            }
+        }
+    },
+    "Efficiency": {
+        "levels": {
+            "1": {
+                "formatted_name": "Efficiency I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Efficiency II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Efficiency III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Efficiency IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Efficiency V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Efficiency VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Efficiency VII",
+                "combinable": true
+            },
+            "8": {
+                "formatted_name": "Efficiency VIII",
+                "combinable": true
+            },
+            "9": {
+                "formatted_name": "Efficiency IX",
+                "combinable": true
+            },
+            "10": {
+                "formatted_name": "Efficiency X",
+                "combinable": true
+            }
+        }
+    },
+    "First Impression": {
+        "levels": {
+            "1": {
+                "formatted_name": "First Impression I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "First Impression II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "First Impression III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "First Impression IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "First Impression V",
+                "combinable": true
+            }
+        }
+    },
+    "Flowstate": {
+        "levels": {
+            "1": {
+                "formatted_name": "Flowstate I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Flowstate II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Flowstate III",
+                "combinable": true
+            }
+        }
+    },
+    "Fortune": {
+        "levels": {
+            "1": {
+                "formatted_name": "Fortune I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Fortune II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Fortune III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Fortune IV",
+                "combinable": true
+            }
+        }
+    },
+    "Harvesting": {
+        "levels": {
+            "1": {
+                "formatted_name": "Harvesting I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Harvesting II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Harvesting III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Harvesting IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Harvesting V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Harvesting VI",
+                "combinable": true
+            }
+        }
+    },
+    "Lapidary": {
+        "levels": {
+            "1": {
+                "formatted_name": "Lapidary I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Lapidary II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Lapidary III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Lapidary IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Lapidary V",
+                "combinable": true
+            }
+        }
+    },
+    "Missile": {
+        "levels": {
+            "1": {
+                "formatted_name": "Missile I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Missile II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Missile III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Missile IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Missile V",
+                "combinable": true
+            }
+        }
+    },
+    "Prismatic": {
+        "levels": {
+            "1": {
+                "formatted_name": "Prismatic I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Prismatic II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Prismatic III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Prismatic IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Prismatic V",
+                "combinable": true
+            }
+        }
+    },
+    "Rainbow": {
+        "levels": {
+            "1": {
+                "formatted_name": "Rainbow I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Rainbow II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Rainbow III",
+                "combinable": true
+            }
+        }
+    },
+    "Replenish": {
+        "levels": {
+            "1": {
+                "formatted_name": "Replenish I",
+                "combinable": true
+            }
+        }
+    },
+    "Silk Touch": {
+        "levels": {
+            "1": {
+                "formatted_name": "Silk Touch I",
+                "combinable": true
+            }
+        }
+    },
+    "Smelting Touch": {
+        "levels": {
+            "1": {
+                "formatted_name": "Smelting Touch I",
+                "combinable": true
+            }
+        }
+    },
+    "Turbo-Crop": {
+        "levels": {
+            "1": {
+                "formatted_name": "Turbo-Crop I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Turbo-Crop II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Turbo-Crop III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Turbo-Crop IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Turbo-Crop V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Turbo-Crop VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Turbo-Crop VII",
+                "combinable": true
+            }
+        }
+    },
+    "Woodsplitter": {
+        "levels": {
+            "1": {
+                "formatted_name": "Woodsplitter I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Woodsplitter II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Woodsplitter III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Woodsplitter IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Woodsplitter V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Woodsplitter VI",
+                "combinable": true
+            }
+        }
+    },
+    "Angler": {
+        "levels": {
+            "1": {
+                "formatted_name": "Angler I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Angler II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Angler III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Angler IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Angler V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Angler VI",
+                "combinable": true
+            }
+        }
+    },
+    "Blessing": {
+        "levels": {
+            "1": {
+                "formatted_name": "Blessing I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Blessing II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Blessing III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Blessing IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Blessing V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Blessing VI",
+                "combinable": true
+            }
+        }
+    },
+    "Caster": {
+        "levels": {
+            "1": {
+                "formatted_name": "Caster I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Caster II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Caster III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Caster IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Caster V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Caster VI",
+                "combinable": true
+            }
+        }
+    },
+    "Charm": {
+        "levels": {
+            "1": {
+                "formatted_name": "Charm I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Charm II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Charm III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Charm IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Charm V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Charm VI",
+                "combinable": true
+            }
+        }
+    },
+    "Corruption": {
+        "levels": {
+            "1": {
+                "formatted_name": "Corruption I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Corruption II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Corruption III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Corruption IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Corruption V",
+                "combinable": true
+            }
+        }
+    },
+    "Expertise": {
+        "levels": {
+            "1": {
+                "formatted_name": "Expertise I",
+                "combinable": false
+            },
+            "2": {
+                "formatted_name": "Expertise II",
+                "combinable": false
+            },
+            "3": {
+                "formatted_name": "Expertise III",
+                "combinable": false
+            },
+            "4": {
+                "formatted_name": "Expertise IV",
+                "combinable": false
+            },
+            "5": {
+                "formatted_name": "Expertise V",
+                "combinable": false
+            },
+            "6": {
+                "formatted_name": "Expertise VI",
+                "combinable": false
+            },
+            "7": {
+                "formatted_name": "Expertise VII",
+                "combinable": false
+            },
+            "8": {
+                "formatted_name": "Expertise VIII",
+                "combinable": false
+            },
+            "9": {
+                "formatted_name": "Expertise IX",
+                "combinable": false
+            },
+            "10": {
+                "formatted_name": "Expertise X",
+                "combinable": false
+            }
+        }
+    },
+    "Frail": {
+        "levels": {
+            "1": {
+                "formatted_name": "Frail I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Frail II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Frail III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Frail IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Frail V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Frail VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Frail VII",
+                "combinable": true
+            }
+        }
+    },
+    "Luck of the Sea": {
+        "levels": {
+            "1": {
+                "formatted_name": "Luck of the Sea I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Luck of the Sea II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Luck of the Sea III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Luck of the Sea IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Luck of the Sea V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Luck of the Sea VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Luck of the Sea VII",
+                "combinable": true
+            }
+        }
+    },
+    "Lure": {
+        "levels": {
+            "1": {
+                "formatted_name": "Lure I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Lure II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Lure III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Lure IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Lure V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Lure VI",
+                "combinable": true
+            }
+        }
+    },
+    "Magnet": {
+        "levels": {
+            "1": {
+                "formatted_name": "Magnet I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Magnet II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Magnet III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Magnet IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Magnet V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Magnet VI",
+                "combinable": true
+            }
+        }
+    },
+    "Piscary": {
+        "levels": {
+            "1": {
+                "formatted_name": "Piscary I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Piscary II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Piscary III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Piscary IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Piscary V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Piscary VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Piscary VII",
+                "combinable": true
+            }
+        }
+    },
+    "Quick Bite": {
+        "levels": {
+            "1": {
+                "formatted_name": "Quick Bite I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Quick Bite II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Quick Bite III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Quick Bite IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Quick Bite V",
+                "combinable": true
+            }
+        }
+    },
+    "Spiked Hook": {
+        "levels": {
+            "1": {
+                "formatted_name": "Spiked Hook I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Spiked Hook II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Spiked Hook III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Spiked Hook IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Spiked Hook V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Spiked Hook VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Spiked Hook VII",
+                "combinable": true
+            }
+        }
+    }
+}

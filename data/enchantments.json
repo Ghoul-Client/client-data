@@ -1,5 +1,6 @@
 {
     "Bane of Arthropods": {
+        "internal_id": "BANE_OF_ARTHROPODS",
         "levels": {
             "1": {
                 "formatted_name": "Bane of Arthropods I",
@@ -32,6 +33,7 @@
         }
     },
     "Champion": {
+        "internal_id": "CHAMPION",
         "levels": {
             "1": {
                 "formatted_name": "Champion I",
@@ -76,6 +78,7 @@
         }
     },
     "Cleave": {
+        "internal_id": "CLEAVE",
         "levels": {
             "1": {
                 "formatted_name": "Cleave I",
@@ -104,6 +107,7 @@
         }
     },
     "Critical": {
+        "internal_id": "CRITICAL",
         "levels": {
             "1": {
                 "formatted_name": "Critical I",
@@ -136,6 +140,7 @@
         }
     },
     "Cubism": {
+        "internal_id": "CUBISM",
         "levels": {
             "1": {
                 "formatted_name": "Cubism I",
@@ -164,6 +169,7 @@
         }
     },
     "Divine Gift": {
+        "internal_id": "DIVINE_GIFT",
         "levels": {
             "1": {
                 "formatted_name": "Divine Gift I",
@@ -180,6 +186,7 @@
         }
     },
     "Drain": {
+        "internal_id": "DRAIN",
         "levels": {
             "1": {
                 "formatted_name": "Drain I",
@@ -204,6 +211,7 @@
         }
     },
     "Ender Slayer": {
+        "internal_id": "ENDER_SLAYER",
         "levels": {
             "1": {
                 "formatted_name": "Ender Slayer I",
@@ -236,6 +244,7 @@
         }
     },
     "Execute": {
+        "internal_id": "EXECUTE",
         "levels": {
             "1": {
                 "formatted_name": "Execute I",
@@ -264,6 +273,7 @@
         }
     },
     "Experience": {
+        "internal_id": "EXPERIENCE",
         "levels": {
             "1": {
                 "formatted_name": "Experience I",
@@ -288,6 +298,7 @@
         }
     },
     "Fire Aspect": {
+        "internal_id": "FIRE_ASPECT",
         "levels": {
             "1": {
                 "formatted_name": "Fire Aspect I",
@@ -304,6 +315,7 @@
         }
     },
     "First Strike": {
+        "internal_id": "FIRST_STRIKE",
         "levels": {
             "1": {
                 "formatted_name": "First Strike I",
@@ -328,6 +340,7 @@
         }
     },
     "Giant Killer": {
+        "internal_id": "GIANT_KILLER",
         "levels": {
             "1": {
                 "formatted_name": "Giant Killer I",
@@ -360,6 +373,7 @@
         }
     },
     "Gravity": {
+        "internal_id": "GRAVITY",
         "levels": {
             "1": {
                 "formatted_name": "Gravity I",
@@ -388,6 +402,7 @@
         }
     },
     "Impaling": {
+        "internal_id": "IMPALING",
         "levels": {
             "1": {
                 "formatted_name": "Impaling I",
@@ -412,6 +427,7 @@
         }
     },
     "Knockback": {
+        "internal_id": "KNOCKBACK",
         "levels": {
             "1": {
                 "formatted_name": "Knockback I",
@@ -424,6 +440,7 @@
         }
     },
     "Lethality": {
+        "internal_id": "LETHALITY",
         "levels": {
             "1": {
                 "formatted_name": "Lethality I",
@@ -452,6 +469,7 @@
         }
     },
     "Life Steal": {
+        "internal_id": "LIFE_STEAL",
         "levels": {
             "1": {
                 "formatted_name": "Life Steal I",
@@ -476,6 +494,7 @@
         }
     },
     "Looting": {
+        "internal_id": "LOOTING",
         "levels": {
             "1": {
                 "formatted_name": "Looting I",
@@ -500,6 +519,7 @@
         }
     },
     "Luck": {
+        "internal_id": "LUCK",
         "levels": {
             "1": {
                 "formatted_name": "Luck I",
@@ -532,6 +552,7 @@
         }
     },
     "Mana Steal": {
+        "internal_id": "MANA_STEAL",
         "levels": {
             "1": {
                 "formatted_name": "Mana Steal I",
@@ -548,6 +569,7 @@
         }
     },
     "Prosecute": {
+        "internal_id": "PROSECUTE",
         "levels": {
             "1": {
                 "formatted_name": "Prosecute I",
@@ -576,6 +598,7 @@
         }
     },
     "Scavenger": {
+        "internal_id": "SCAVENGER",
         "levels": {
             "1": {
                 "formatted_name": "Scavenger I",
@@ -604,6 +627,7 @@
         }
     },
     "Sharpness": {
+        "internal_id": "SHARPNESS",
         "levels": {
             "1": {
                 "formatted_name": "Sharpness I",
@@ -636,6 +660,7 @@
         }
     },
     "Smite": {
+        "internal_id": "SMITE",
         "levels": {
             "1": {
                 "formatted_name": "Smite I",
@@ -668,6 +693,7 @@
         }
     },
     "Smoldering": {
+        "internal_id": "SMOLDERING",
         "levels": {
             "1": {
                 "formatted_name": "Smoldering I",
@@ -692,6 +718,7 @@
         }
     },
     "Tabasco": {
+        "internal_id": "TABASCO",
         "levels": {
             "2": {
                 "formatted_name": "Tabasco II",
@@ -704,6 +731,7 @@
         }
     },
     "Thunderbolt": {
+        "internal_id": "THUNDERBOLT",
         "levels": {
             "1": {
                 "formatted_name": "Thunderbolt I",
@@ -736,6 +764,7 @@
         }
     },
     "Thunderlord": {
+        "internal_id": "THUNDERLORD",
         "levels": {
             "1": {
                 "formatted_name": "Thunderlord I",
@@ -768,6 +797,7 @@
         }
     },
     "Titan Killer": {
+        "internal_id": "TITAN_KILLER",
         "levels": {
             "1": {
                 "formatted_name": "Titan Killer I",
@@ -800,6 +830,7 @@
         }
     },
     "Triple-Strike": {
+        "internal_id": "TRIPLE_STRIKE",
         "levels": {
             "1": {
                 "formatted_name": "Triple-Strike I",
@@ -824,6 +855,7 @@
         }
     },
     "Vampirism": {
+        "internal_id": "VAMPIRISM",
         "levels": {
             "1": {
                 "formatted_name": "Vampirism I",
@@ -852,6 +884,7 @@
         }
     },
     "Venomous": {
+        "internal_id": "VENOMOUS",
         "levels": {
             "1": {
                 "formatted_name": "Venomous I",
@@ -876,10 +909,15 @@
             "6": {
                 "formatted_name": "Venomous VI",
                 "combinable": true
+            },
+            "7": {
+                "formatted_name": "Venomous VII",
+                "combinable": true
             }
         }
     },
     "Vicious": {
+        "internal_id": "VICIOUS",
         "levels": {
             "3": {
                 "formatted_name": "Vicious III",
@@ -896,6 +934,7 @@
         }
     },
     "Chance": {
+        "internal_id": "CHANCE",
         "levels": {
             "1": {
                 "formatted_name": "Chance I",
@@ -920,6 +959,7 @@
         }
     },
     "Dragon Tracer": {
+        "internal_id": "AIMING",
         "levels": {
             "1": {
                 "formatted_name": "Dragon Tracer I",
@@ -944,6 +984,7 @@
         }
     },
     "Flame": {
+        "internal_id": "FLAME",
         "levels": {
             "1": {
                 "formatted_name": "Flame I",
@@ -956,6 +997,7 @@
         }
     },
     "Infinite Quiver": {
+        "internal_id": "INFINITE_QUIVER",
         "levels": {
             "1": {
                 "formatted_name": "Infinite Quiver I",
@@ -1000,6 +1042,7 @@
         }
     },
     "Piercing": {
+        "internal_id": "PIERCING",
         "levels": {
             "1": {
                 "formatted_name": "Piercing I",
@@ -1008,6 +1051,7 @@
         }
     },
     "Overload": {
+        "internal_id": "OVERLOAD",
         "levels": {
             "1": {
                 "formatted_name": "Overload I",
@@ -1032,6 +1076,7 @@
         }
     },
     "Power": {
+        "internal_id": "POWER",
         "levels": {
             "1": {
                 "formatted_name": "Power I",
@@ -1064,6 +1109,7 @@
         }
     },
     "Punch": {
+        "internal_id": "PUNCH",
         "levels": {
             "1": {
                 "formatted_name": "Punch I",
@@ -1076,6 +1122,7 @@
         }
     },
     "Snipe": {
+        "internal_id": "SNIPE",
         "levels": {
             "1": {
                 "formatted_name": "Snipe I",
@@ -1096,6 +1143,7 @@
         }
     },
     "Toxophilite": {
+        "internal_id": "TOXOPHILITE",
         "levels": {
             "1": {
                 "formatted_name": "Toxophilite I",
@@ -1140,6 +1188,7 @@
         }
     },
     "Aqua Affinity": {
+        "internal_id": "AQUA_AFFINITY",
         "levels": {
             "1": {
                 "formatted_name": "Aqua Affinity I",
@@ -1148,6 +1197,7 @@
         }
     },
     "Big Brain": {
+        "internal_id": "BIG_BRAIN",
         "levels": {
             "3": {
                 "formatted_name": "Big Brain III",
@@ -1164,6 +1214,7 @@
         }
     },
     "Blast Protection": {
+        "internal_id": "BLAST_PROTECTION",
         "levels": {
             "1": {
                 "formatted_name": "Blast Protection I",
@@ -1196,6 +1247,7 @@
         }
     },
     "Counter-Strike": {
+        "internal_id": "COUNTER_STRIKE",
         "levels": {
             "3": {
                 "formatted_name": "Counter-Strike III",
@@ -1212,6 +1264,7 @@
         }
     },
     "Depth Strider": {
+        "internal_id": "DEPTH_STRIDER",
         "levels": {
             "1": {
                 "formatted_name": "Depth Strider I",
@@ -1228,6 +1281,7 @@
         }
     },
     "Feather Falling": {
+        "internal_id": "FEATHER_FALLING",
         "levels": {
             "1": {
                 "formatted_name": "Feather Falling I",
@@ -1272,6 +1326,7 @@
         }
     },
     "Fire Protection": {
+        "internal_id": "FIRE_PROTECTION",
         "levels": {
             "1": {
                 "formatted_name": "Fire Protection I",
@@ -1304,6 +1359,7 @@
         }
     },
     "Great Spook": {
+        "internal_id": "GREAT_SPOOK",
         "levels": {
             "1": {
                 "formatted_name": "Great Spook I",
@@ -1312,6 +1368,7 @@
         }
     },
     "Growth": {
+        "internal_id": "GROWTH",
         "levels": {
             "1": {
                 "formatted_name": "Growth I",
@@ -1343,7 +1400,86 @@
             }
         }
     },
+    "Hecatomb": {
+        "internal_id": "HECATOMB",
+        "levels": {
+            "1": {
+                "formatted_name": "Hecatomb I",
+                "combinable": false
+            },
+            "2": {
+                "formatted_name": "Hecatomb II",
+                "combinable": false
+            },
+            "3": {
+                "formatted_name": "Hecatomb III",
+                "combinable": false
+            },
+            "4": {
+                "formatted_name": "Hecatomb IV",
+                "combinable": false
+            },
+            "5": {
+                "formatted_name": "Hecatomb V",
+                "combinable": false
+            },
+            "6": {
+                "formatted_name": "Hecatomb VI",
+                "combinable": false
+            },
+            "7": {
+                "formatted_name": "Hecatomb VII",
+                "combinable": false
+            },
+            "8": {
+                "formatted_name": "Hecatomb VIII",
+                "combinable": false
+            },
+            "9": {
+                "formatted_name": "Hecatomb IX",
+                "combinable": false
+            },
+            "10": {
+                "formatted_name": "Hecatomb X",
+                "combinable": false
+            }
+        }
+    },
+    "Projectile Protection": {
+        "internal_id": "PROJECTILE_PROTECTION",
+        "levels": {
+            "1": {
+                "formatted_name": "Projectile Protection I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Projectile Protection II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Projectile Protection III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Projectile Protection IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Projectile Protection V",
+                "combinable": true
+            },
+            "6": {
+                "formatted_name": "Projectile Protection VI",
+                "combinable": true
+            },
+            "7": {
+                "formatted_name": "Projectile Protection VII",
+                "combinable": true
+            }
+        }
+    },
     "Protection": {
+        "internal_id": "PROTECTION",
         "levels": {
             "1": {
                 "formatted_name": "Protection I",
@@ -1376,6 +1512,7 @@
         }
     },
     "Reflection": {
+        "internal_id": "REFLECTION",
         "levels": {
             "1": {
                 "formatted_name": "Reflection I",
@@ -1400,6 +1537,7 @@
         }
     },
     "Rejuvenate": {
+        "internal_id": "REJUVENATE",
         "levels": {
             "1": {
                 "formatted_name": "Rejuvenate I",
@@ -1424,6 +1562,7 @@
         }
     },
     "Respiration": {
+        "internal_id": "RESPIRATION",
         "levels": {
             "1": {
                 "formatted_name": "Respiration I",
@@ -1444,6 +1583,7 @@
         }
     },
     "Respite": {
+        "internal_id": "RESPITE",
         "levels": {
             "1": {
                 "formatted_name": "Respite I",
@@ -1468,6 +1608,7 @@
         }
     },
     "Small Brain": {
+        "internal_id": "SMALL_BRAIN",
         "levels": {
             "3": {
                 "formatted_name": "Small Brain III",
@@ -1484,6 +1625,7 @@
         }
     },
     "Smarty Pants": {
+        "internal_id": "SMARTY_PANTS",
         "levels": {
             "1": {
                 "formatted_name": "Smarty Pants I",
@@ -1508,6 +1650,7 @@
         }
     },
     "Stealth": {
+        "internal_id": "STEALTH",
         "levels": {
             "1": {
                 "formatted_name": "Stealth I",
@@ -1516,6 +1659,7 @@
         }
     },
     "Sugar Rush": {
+        "internal_id": "SUGAR_RUSH",
         "levels": {
             "1": {
                 "formatted_name": "Sugar Rush I",
@@ -1532,6 +1676,7 @@
         }
     },
     "Thorns": {
+        "internal_id": "THORNS",
         "levels": {
             "1": {
                 "formatted_name": "Thorns I",
@@ -1548,6 +1693,7 @@
         }
     },
     "Transylvanian": {
+        "internal_id": "TRANSYLVANIAN",
         "levels": {
             "4": {
                 "formatted_name": "Transylvanian IV",
@@ -1560,6 +1706,7 @@
         }
     },
     "True Protection": {
+        "internal_id": "TRUE_PROTECTION",
         "levels": {
             "1": {
                 "formatted_name": "True Protection I",
@@ -1567,83 +1714,8 @@
             }
         }
     },
-    "Cayenne": {
-        "levels": {
-            "4": {
-                "formatted_name": "Cayenne IV",
-                "combinable": true
-            },
-            "5": {
-                "formatted_name": "Cayenne V",
-                "combinable": true
-            }
-        }
-    },
-    "Green Thumb": {
-        "levels": {
-            "1": {
-                "formatted_name": "Green Thumb I",
-                "combinable": true
-            },
-            "2": {
-                "formatted_name": "Green Thumb II",
-                "combinable": true
-            },
-            "3": {
-                "formatted_name": "Green Thumb III",
-                "combinable": true
-            },
-            "4": {
-                "formatted_name": "Green Thumb IV",
-                "combinable": true
-            },
-            "5": {
-                "formatted_name": "Green Thumb V",
-                "combinable": true
-            }
-        }
-    },
-    "Prosperity": {
-        "levels": {
-            "1": {
-                "formatted_name": "Prosperity I",
-                "combinable": true
-            },
-            "2": {
-                "formatted_name": "Prosperity II",
-                "combinable": true
-            },
-            "3": {
-                "formatted_name": "Prosperity III",
-                "combinable": true
-            },
-            "4": {
-                "formatted_name": "Prosperity IV",
-                "combinable": true
-            },
-            "5": {
-                "formatted_name": "Prosperity V",
-                "combinable": true
-            }
-        }
-    },
-    "Quantum": {
-        "levels": {
-            "3": {
-                "formatted_name": "Quantum III",
-                "combinable": true
-            },
-            "4": {
-                "formatted_name": "Quantum IV",
-                "combinable": true
-            },
-            "5": {
-                "formatted_name": "Quantum V",
-                "combinable": true
-            }
-        }
-    },
     "Absorb": {
+        "internal_id": "ABSORB",
         "levels": {
             "1": {
                 "formatted_name": "Absorb I",
@@ -1688,6 +1760,7 @@
         }
     },
     "Cultivating": {
+        "internal_id": "CULTIVATING",
         "levels": {
             "1": {
                 "formatted_name": "Cultivating I",
@@ -1732,6 +1805,7 @@
         }
     },
     "Compact": {
+        "internal_id": "COMPACT",
         "levels": {
             "1": {
                 "formatted_name": "Compact I",
@@ -1776,6 +1850,7 @@
         }
     },
     "Crop Fever": {
+        "internal_id": "CROP_FEVER",
         "levels": {
             "1": {
                 "formatted_name": "Crop Fever I",
@@ -1800,6 +1875,7 @@
         }
     },
     "Dedication": {
+        "internal_id": "DEDICATION",
         "levels": {
             "1": {
                 "formatted_name": "Dedication I",
@@ -1820,6 +1896,7 @@
         }
     },
     "Delicate": {
+        "internal_id": "DELICATE",
         "levels": {
             "5": {
                 "formatted_name": "Delicate V",
@@ -1828,6 +1905,7 @@
         }
     },
     "Efficiency": {
+        "internal_id": "EFFICIENCY",
         "levels": {
             "1": {
                 "formatted_name": "Efficiency I",
@@ -1872,6 +1950,7 @@
         }
     },
     "First Impression": {
+        "internal_id": "FIRST_IMPRESSION",
         "levels": {
             "1": {
                 "formatted_name": "First Impression I",
@@ -1896,6 +1975,7 @@
         }
     },
     "Flowstate": {
+        "internal_id": "FLOWSTATE",
         "levels": {
             "1": {
                 "formatted_name": "Flowstate I",
@@ -1912,6 +1992,7 @@
         }
     },
     "Fortune": {
+        "internal_id": "FORTUNE",
         "levels": {
             "1": {
                 "formatted_name": "Fortune I",
@@ -1932,6 +2013,7 @@
         }
     },
     "Harvesting": {
+        "internal_id": "HARVESTING",
         "levels": {
             "1": {
                 "formatted_name": "Harvesting I",
@@ -1960,6 +2042,7 @@
         }
     },
     "Lapidary": {
+        "internal_id": "LAPIDARY",
         "levels": {
             "1": {
                 "formatted_name": "Lapidary I",
@@ -1984,6 +2067,7 @@
         }
     },
     "Missile": {
+        "internal_id": "MISSILE",
         "levels": {
             "1": {
                 "formatted_name": "Missile I",
@@ -2008,6 +2092,7 @@
         }
     },
     "Prismatic": {
+        "internal_id": "PRISMATIC",
         "levels": {
             "1": {
                 "formatted_name": "Prismatic I",
@@ -2032,6 +2117,7 @@
         }
     },
     "Rainbow": {
+        "internal_id": "RAINBOW",
         "levels": {
             "1": {
                 "formatted_name": "Rainbow I",
@@ -2048,6 +2134,7 @@
         }
     },
     "Replenish": {
+        "internal_id": "REPLENISH",
         "levels": {
             "1": {
                 "formatted_name": "Replenish I",
@@ -2056,6 +2143,7 @@
         }
     },
     "Silk Touch": {
+        "internal_id": "SILK_TOUCH",
         "levels": {
             "1": {
                 "formatted_name": "Silk Touch I",
@@ -2064,6 +2152,7 @@
         }
     },
     "Smelting Touch": {
+        "internal_id": "SMELTING_TOUCH",
         "levels": {
             "1": {
                 "formatted_name": "Smelting Touch I",
@@ -2072,6 +2161,7 @@
         }
     },
     "Turbo-Crop": {
+        "internal_id": "TURBO_CROP",
         "levels": {
             "1": {
                 "formatted_name": "Turbo-Crop I",
@@ -2104,6 +2194,7 @@
         }
     },
     "Woodsplitter": {
+        "internal_id": "WOODSPLITTER",
         "levels": {
             "1": {
                 "formatted_name": "Woodsplitter I",
@@ -2132,6 +2223,7 @@
         }
     },
     "Angler": {
+        "internal_id": "ANGLER",
         "levels": {
             "1": {
                 "formatted_name": "Angler I",
@@ -2160,6 +2252,7 @@
         }
     },
     "Blessing": {
+        "internal_id": "BLESSING",
         "levels": {
             "1": {
                 "formatted_name": "Blessing I",
@@ -2188,6 +2281,7 @@
         }
     },
     "Caster": {
+        "internal_id": "CASTER",
         "levels": {
             "1": {
                 "formatted_name": "Caster I",
@@ -2216,6 +2310,7 @@
         }
     },
     "Charm": {
+        "internal_id": "CHARM",
         "levels": {
             "1": {
                 "formatted_name": "Charm I",
@@ -2244,6 +2339,7 @@
         }
     },
     "Corruption": {
+        "internal_id": "CORRUPTION",
         "levels": {
             "1": {
                 "formatted_name": "Corruption I",
@@ -2268,6 +2364,7 @@
         }
     },
     "Expertise": {
+        "internal_id": "EXPERTISE",
         "levels": {
             "1": {
                 "formatted_name": "Expertise I",
@@ -2312,6 +2409,7 @@
         }
     },
     "Frail": {
+        "internal_id": "FRAIL",
         "levels": {
             "1": {
                 "formatted_name": "Frail I",
@@ -2344,6 +2442,7 @@
         }
     },
     "Luck of the Sea": {
+        "internal_id": "LUCK_OF_THE_SEA",
         "levels": {
             "1": {
                 "formatted_name": "Luck of the Sea I",
@@ -2376,6 +2475,7 @@
         }
     },
     "Lure": {
+        "internal_id": "LURE",
         "levels": {
             "1": {
                 "formatted_name": "Lure I",
@@ -2404,6 +2504,7 @@
         }
     },
     "Magnet": {
+        "internal_id": "MAGNET",
         "levels": {
             "1": {
                 "formatted_name": "Magnet I",
@@ -2432,6 +2533,7 @@
         }
     },
     "Piscary": {
+        "internal_id": "PISCARY",
         "levels": {
             "1": {
                 "formatted_name": "Piscary I",
@@ -2464,6 +2566,7 @@
         }
     },
     "Quick Bite": {
+        "internal_id": "QUICK_BITE",
         "levels": {
             "1": {
                 "formatted_name": "Quick Bite I",
@@ -2488,6 +2591,7 @@
         }
     },
     "Spiked Hook": {
+        "internal_id": "SPIKED_HOOK",
         "levels": {
             "1": {
                 "formatted_name": "Spiked Hook I",
@@ -2515,6 +2619,86 @@
             },
             "7": {
                 "formatted_name": "Spiked Hook VII",
+                "combinable": true
+            }
+        }
+    },
+    "Cayenne": {
+        "internal_id": "CAYENNE",
+        "levels": {
+            "4": {
+                "formatted_name": "Cayenne IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Cayenne V",
+                "combinable": true
+            }
+        }
+    },
+    "Green Thumb": {
+        "internal_id": "GREEN_THUMB",
+        "levels": {
+            "1": {
+                "formatted_name": "Green Thumb I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Green Thumb II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Green Thumb III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Green Thumb IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Green Thumb V",
+                "combinable": true
+            }
+        }
+    },
+    "Prosperity": {
+        "internal_id": "PROSPERITY",
+        "levels": {
+            "1": {
+                "formatted_name": "Prosperity I",
+                "combinable": true
+            },
+            "2": {
+                "formatted_name": "Prosperity II",
+                "combinable": true
+            },
+            "3": {
+                "formatted_name": "Prosperity III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Prosperity IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Prosperity V",
+                "combinable": true
+            }
+        }
+    },
+    "Quantum": {
+        "internal_id": "QUANTUM",
+        "levels": {
+            "3": {
+                "formatted_name": "Quantum III",
+                "combinable": true
+            },
+            "4": {
+                "formatted_name": "Quantum IV",
+                "combinable": true
+            },
+            "5": {
+                "formatted_name": "Quantum V",
                 "combinable": true
             }
         }

@@ -10,6 +10,8 @@ PROMPT = """<source>
 </source>
 
 Turn this into a JSON document for me. Do NOT wrap the response in markdown code blocks (no ```json). Output raw text only.
+FEATHER_FALLING and INFINITE_QUIVER are both combinable up until level 10. 
+The rest are combinable up until level 5 (or their max level if it is less than 5).
 
 Format it exactly as:
 
